@@ -4,7 +4,6 @@ body {
     background-image: url('/images/background.png'); /* Dark background for galaxy theme */
     background-size: cover; /* Ensure the image covers the entire background */
     background-repeat: no-repeat; /* Prevent the image from repeating */
-    background-attachment: fixed; /* Keep the background fixed during scrolling */
     height: 100vh; /* Set the height to match the device's viewport height */
     color: #eaeaea; /* Light text color for contrast */
     font-family: 'Arial', sans-serif;
